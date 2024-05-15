@@ -62,6 +62,5 @@ To assess the efficiency of our agents, we need to calculate and display the ave
 ![image](https://github.com/malleshwari97/Call-Centre-Analysis-Report/assets/65710677/648b5d20-ca3c-461d-8d36-f714c537f7cb)
 
 #### Grid page Report Dashboard
-![image](https://github.com/malleshwari97/Call-Centre-Analysis-Report/assets/65710677/74ecf9ba-e254-4bfa-8c8a-e7daa02fd50b)
-
+![image](https://github.com/malleshwari97/Call-Centre-Analysis-Report/assets/65710677/5e280d41-4600-45c5-ad91-e746f70414d3)
 
